@@ -1,0 +1,22 @@
+{
+  "당신의 전생은?" : "What was your previous life?",
+  "이름을 입력해주세요." : "Please type your name.",
+  "남자" : "MALE",
+  "여자" : "FEMALE",
+  "키": "HEIGHT",
+  "몸무게": "WEIGHT",
+  "나이": "AGE",
+  "확인하기": "Check it out",
+  "당신의 결과": "Your Result",
+  "님의 전생은?": "'s previous life?",
+  "인간": "Human",
+  "엘프":"Elf",
+  "오우거": "Ogre",
+  "오크": "Orc",
+  "당신은 인간에게 살해당해 삶을 마감했습니다.": "You were killed by humans and ended your life.",
+  "당신은 오크족장으로서 삶을 마감했습니다.": "ou ended your life as an orc chief.",
+  "당신은 평범한 인간으로서 삶을 마감했습니다.": "You ended your life as a normal human being.",
+  "당신은 숲의 영웅으로서 삶을 마감했습니다.": "You ended your life as a forest hero.",
+  "다시하기": "Do it again"
+
+}
